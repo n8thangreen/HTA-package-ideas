@@ -37,7 +37,7 @@ Example projects within these themes are:
   * [Take a pdf table of input data and wrangle it into a form for HTA](https://github.com/HealthEconomicsDataDive/pdf2data).
 * Exploit new AI models
   * ChatGPT for automatic systematic literature review (SLR)
-  * Data cleaing
+  * Data cleaning
 * Easily convert from scripts to packages  
 * Automatically commenting HTA code
 * Automatically adding tests to HTA code
